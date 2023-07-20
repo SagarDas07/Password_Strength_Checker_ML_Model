@@ -14,7 +14,7 @@ To run this notebook, you need the following dependencies installed:
 - numpy
 - scikit-learn
 
-You can install these dependencies using `pip`:
+You can install these dependencies using `pip`
 
 ```bash
 pip install pandas numpy scikit-learn
